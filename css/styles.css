@@ -4,14 +4,18 @@
 }
 
 body {
-    background-color: #ED7B7B;
+    background-color: #5361a5;
 }
 div { 
-    background-color: #F0B86E;
+    background-color: #f8f7f5;
     padding: 10px 20px 30px 40px;
     border: 2px solid black;
     margin: 20px 40px;
 }
+
+h2{
+    color:#f8f7f5;
+}
 h3{
-    color: #836096;
+    color: #0f2675;
 }
